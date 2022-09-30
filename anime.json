@@ -45,6 +45,7 @@
 
 }
 
+
 {
 
 "id" : "5",
@@ -56,6 +57,19 @@
 "Link"   : "Animeflix.com/Death-Note"
 
 }
+
+{
+
+"id" : "06",
+
+"Anime Name" : "Isamu",
+
+"Anime Genre" : "	Noboru Kawasaki",
+
+"Link"   : "Animeflix.com/Naruto"
+
+}
+
 
 
 
