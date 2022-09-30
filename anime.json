@@ -7,6 +7,7 @@
 "Anime Genre" : "Supernatural/Actions",
 
 "Link"   : "Animeflix.com"
+
   
 }
   
@@ -17,4 +18,17 @@
 "Anime Genre" : "Adventure/Fantacy",
 
 "Link"   : "Animixplay.com
+=======
+},
+
+{
+
+"id" : "3",
+
+"Anime Name" : "Naruto",
+
+"Anime Genre" : "Supernatural/Actions",
+
+"Link"   : "Animeflix.com/Naruto"
+
 }
