@@ -7,17 +7,17 @@
 "Anime Genre" : "Supernatural/Actions",
 
 "Link"   : "Animeflix.com"
+},
 
-  
-}
-  
- {"id" : "2",
+{
 
-"Anime Name" : "One piece",
+"id" : "2",
 
-"Anime Genre" : "Adventure/Fantacy",
+"Anime Name" : "Naruto Uzumaki",
 
-"Link"   : "Animixplay.com
+"Anime Genre" : "Adventre, Fantasy comedy",
+
+"Link"   : "https://en.wikipedia.org/wiki/Naruto"
 =======
 },
 
@@ -25,28 +25,25 @@
 
 "id" : "3",
 
-"Anime Name" : "Naruto",
+"Anime Name" : "Tokyo Revengers",
 
 "Anime Genre" : "Supernatural/Actions",
 
-"Link"   : "Animeflix.com/Naruto"
+"Link"   : "Animeflix.com/Tokyo revengers"
 
 }
 
+{
 
+"id" : "4",
 
+"Anime Name" : "One Piece",
 
+"Anime Genre" : "Adventure/Pirates/Shonen",
 
+"Link"   : "zoro.to"
 
-
-
-
-
-
-
-
-
-
+}
 
 {
 
@@ -59,3 +56,21 @@
 "Link"   : "Animeflix.com/Death-Note"
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
