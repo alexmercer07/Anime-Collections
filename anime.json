@@ -31,7 +31,7 @@
 
 "Link"   : "Animeflix.com/Tokyo revengers"
 
-}
+},
 
 {
 
@@ -43,7 +43,7 @@
 
 "Link"   : "zoro.to"
 
-}
+},
 {
 
 "id" : "55",
@@ -54,7 +54,7 @@
 
 "Link"   : "Animeflix.com/Tokyo /devloper"
 
-}
+},
 
 {
 
@@ -66,7 +66,7 @@
 
 "Link"   : "https://www.hulu.com"
 
-}
+},
 
 
 
@@ -80,7 +80,7 @@
 
 "Link"   : "Animeflix.com/Death-Note"
 
-}
+},
 
 {
 
@@ -95,7 +95,7 @@
 },
 {
 
-"id" : "06",
+"id" : "07",
 
 "Anime Name" : "one punch man",
 
@@ -103,8 +103,19 @@
 
 "Link"   : "Animeflix.com/Naruto"
 
-}
+},
 
+{
+
+"id" : "08",
+
+"Anime Name" : "Jujutsu Kaisen",
+
+"Anime Genre" : "Supernatural/Actions",
+
+"Link"   : "https://animeflix.com/Jujutsu%20Kaisen"
+
+},
 
 
 
